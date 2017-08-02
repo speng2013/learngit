@@ -9,4 +9,8 @@ Creating a new branch is quick.
 This is feature
 Lalalalall
 Dev dev dev
+<<<<<<< HEAD
 abc
+=======
+213123131
+>>>>>>> feature1
